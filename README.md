@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmirRezaTamandani 
+- 👋 Hi, I’m Amir Reza Tamandani 
 - 👀 I’m interested in developing UIs and in general fun , minimalistic and beautiful frontend
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on big projects for specific social medias and web3
