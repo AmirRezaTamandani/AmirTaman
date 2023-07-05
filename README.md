@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmirTaman (my name irl is Amir Reza Tamandani)
+- 👋 Hi, I’m @AmirRezaTamandani 
 - 👀 I’m interested in developing UIs and in general fun , minimalistic and beautiful frontend
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on big projects for specific social medias and web3
